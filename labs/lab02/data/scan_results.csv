@@ -1,0 +1,8 @@
+Target Host,Port,Service,Status,Response Time,Notes
+127.0.0.1,22,SSH,OFFLINE,TIMEOUT,Connection refused
+127.0.0.1,80,HTTP,ONLINE,0.5 ms,OK
+localhost,443,HTTPS,ONLINE,3.7 ms,OK
+192.0.2.10,80,HTTP,OFFLINE,TIMEOUT,Connection refused
+198.51.100.20,443,HTTPS,OFFLINE,TIMEOUT,Connection refused
+203.0.113.30,22,SSH,OFFLINE,TIMEOUT,Connection refused
+999.10.10.10,443,HTTPS,ERROR,-,DNS resolution failed
